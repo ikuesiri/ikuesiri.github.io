@@ -17,6 +17,8 @@ Welcome to my personal data analytics portfolio! This collection showcases my ha
 | **Product Aces Sales Dashboard** | Power BI | Analyzed 5,000+ sales transactions to reveal best-selling products and regional performance. |
 
 ---
+and many more 
+
 
 ## 📊 Tools & Technologies
 - **BI Tools:** Power BI, Tableau, Excel
